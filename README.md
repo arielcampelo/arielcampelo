@@ -9,7 +9,7 @@
 - 🧠 Specializing in **Symbolic Artificial Intelligence**, **Ontologies (OWL/RDF/SPARQL)**, **Natural Language Processing (NLP)**, and **Backend Software Engineering**.
 - 🌐 Lead AI Architect for the **e-CERT** project (**Ministry of Agriculture / UN/CEFACT / OECD**), building live data normalization APIs for international sanitary trade (operating with EU, China, Russia, Australia, etc.).
 - 🧘 Creator of a personal ecosystem of intelligent web applications (**MindFlow PWA** & **Motion App**) to optimize daily productivity and physical well-being.
-- 🎓 Completed graduate-level coursework at **IME-USP** with **Grade A ("Conceito A")** in Algorithms, Graph Theory, and SBC standards. Passed the national **POSCOMP 2026** examination (**46/70**).
+- 🎓 Bachelor of Mathematics from **University of São Paulo (USP)**, specializing in Graph Theory, Formal Logic, and High-Performance Algorithms.
 
 ---
 
